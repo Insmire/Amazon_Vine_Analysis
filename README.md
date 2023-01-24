@@ -45,7 +45,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 ![percentages](https://user-images.githubusercontent.com/96349090/165081753-6a9ee47c-2915-4322-b3ff-aafb706e0698.png)
 
-### At a Glance
+### At-a-Glance
 ||Vine Reviews|Non-Vine Reviews|
 |:---|:---:|:---:|
 |Total Reviews|5,012|109,297|
