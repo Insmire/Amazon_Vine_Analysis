@@ -4,20 +4,6 @@ The purpose of this project is to analyze a dataset of book reviews from Amazon.
 
 ---
 
-## Resources
-
-Data Source:
-
-    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_00.tsv.gz
-
-Software:
-
-    Google Colaboratory notebook
-    Python MapReduce library mrjob
-    PySpark
-
----
-
 ## Results
 <!-- Using bulleted lists and images of DataFrames as support, address the following questions:
 How many Vine reviews and non-Vine reviews were there?
@@ -59,6 +45,20 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 Based on the calculations above, positivity bias from members of the Vine program is unlikely. The percentage of five-star Vine reviews was comparable to the percentage of five-star non-Vine reviews. Additional analysis could determine the distribution of star ratings by calculating the percentages of Vine reviews and non-Vine reviews at each star rating.
 
+---
+
+## Resources
+
+Data Source:
+
+    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_00.tsv.gz
+
+Software:
+
+    Google Colaboratory notebook
+    Python MapReduce library mrjob
+    PySpark
+    
 ---
 
 ### Contact
