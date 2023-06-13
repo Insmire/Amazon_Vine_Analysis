@@ -1,6 +1,6 @@
 ## Overview
 
-The purpose of this project is to analyze a dataset of book reviews from Amazon. To this end, we utilize PySpark to extract, transform, and load the data into pgAdmin while connecting to Amazon Web Service's Relational Database Service (RDS) instance. We will also use PySpark to ascertain whether the paid Amazon Vine program members leave more positive reviews based on the dataset.
+The purpose of this project is to analyze a dataset of book reviews from Amazon. To this end, we utilize PySpark to extract, transform, and load the data into pgAdmin while connecting to Amazon Web Service's Relational Database Service (AWS RDS) instance. We will also use PySpark to ascertain whether the paid Amazon Vine program members leave more positive reviews based on the dataset.
 
 ---
 
