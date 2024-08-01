@@ -1,6 +1,6 @@
 ## Overview
 
-The purpose of this project is to analyze a dataset of book reviews from Amazon. To this end, we utilize PySpark to extract, transform, and load the data into pgAdmin while connecting to Amazon Web Service's Relational Database Service (AWS RDS) instance. We will also use PySpark to ascertain whether the paid Amazon Vine program members leave more positive reviews based on the dataset.
+Amazon and Vine collaborated to create a paid subscription program for readers. To focus and refine marketing efforts for the program, we analyze all 114,00 book reviews to ascertain whether paid member reviews are positively biased compared to non-member reviews. To this end, we utilize Apache Spark and PySpark to initiate the extraction, transformation, and loading (ETL) process with cloud computing. Then we transfer the data into a PostgreSQL database with pgAdmin by creating and connecting to an Amazon Web Service's Relational Database Service (AWS RDS) instance. 
 
 ---
 
@@ -59,7 +59,8 @@ Software:
     Google Colaboratory Notebook
     Apache Spark
     PySpark
-    Python 
+    Python
+    PostgreSQL
     pgAdmin
     Hadoop
     MapReduce
